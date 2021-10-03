@@ -1,0 +1,9 @@
+class average
+{
+ void display(int a, int b, int c)
+  {
+   int s=a+b+c;
+   double av=s/3.0;
+   System.out.println("Average="+av);
+  }
+}
