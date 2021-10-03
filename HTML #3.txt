@@ -1,3 +1,1 @@
-.container
-  a.border-animation(href="#")
-    .border-animation__inner Border animation
+//conflict algo used up
