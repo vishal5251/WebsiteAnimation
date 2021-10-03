@@ -1,0 +1,10 @@
+Purchase onePurchase = new Purchase();
+JFrame frame = new JFrame();
+ImageIcon icon = new ImageIcon("androidBook.jpg");
+JLabel label = new JLabel(icon);
+
+JFrame frame = new JFrame();
+
+ImageIcon icon = new ImageIcon("androidBook.jpg");
+
+JLabel label = new JLabel(icon);
